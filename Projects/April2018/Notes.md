@@ -2,6 +2,10 @@
 
 [Project on Thimble](https://thimble.mozilla.org/en-US/user/suncoastkids/1597879/)
 
+Based on project from Tampa TIY front-end/javascript cohort 6 (Nov 2016-Feb 2017). Thanks to [Ambethia](https://github.com/ambethia) for letting us use his code and design.
+
+[Liz's version](https://github.com/lizthrilla/roshamboAdventure)  [Original forked repo](https://github.com/tiy-tpa-fee/roshambo)
+
 ## Location
 
 Hosted at Gooee over 4 mondays in April 2018.
