@@ -4,6 +4,10 @@
 
 This is not an original SDG Jr project, it comes from <http://www.code.org> or <http://www.hourofcode.org>
 
+## Language
+
+Javascript, HTML, CSS
+
 ## Location
 
 Hosted at Gooee, 2 separate nights/classes.
