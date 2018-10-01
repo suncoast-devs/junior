@@ -4,6 +4,10 @@
 
 Based on project from [HourofCode.org](https://hourofcode.com/us).
 
+## Language
+
+HTML/CSS
+
 ## Location
 
 Hosted at Agile Thought on May 21, 2018.

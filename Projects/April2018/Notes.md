@@ -6,6 +6,10 @@ Based on project from Tampa TIY front-end/javascript cohort 6 (Nov 2016-Feb 2017
 
 [Liz's version](https://github.com/lizthrilla/roshamboAdventure)  [Original forked repo](https://github.com/tiy-tpa-fee/roshambo)
 
+## Language
+
+Javascript/HTML/CSS
+
 ## Location
 
 Hosted at Gooee over 4 mondays in April 2018.
