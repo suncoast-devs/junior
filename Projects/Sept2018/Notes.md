@@ -9,6 +9,7 @@ Scratch
 Suncoast Developers Guild, 4 Mondays in a row
 
 ## Week 1: Animate your name - Liz
+
 [Scratch Faciliator Guide](https://resources.scratch.mit.edu/www/guides/en/AnimateYourNameGuide.pdf)
 
 * What went well
