@@ -26,4 +26,4 @@ Tag teamed the class with Liz doing the first two with an HTML focus, and Taylor
 ### Ways to improve
 
 We need to switch to a new online text editor as Mozilla is shutting down Thimble at the end of the year.  We can export all existing projects to Glitch.
-Rally more volunteers to help TA.  Rally current students especially!
+Rally more volunteers to help TA--especially current students.
