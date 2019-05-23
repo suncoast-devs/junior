@@ -7,3 +7,6 @@
 ## May 2018
 
 ## Sept 2018
+
+## Jan2019
+ - Julius
